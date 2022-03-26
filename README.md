@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ehshea
 - 👀 I’m interested in Software Test Automation and Open Source software
 - 🌱 I’m currently learning Swift
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: liz.h.shea@gmail.com
 
 <!---
